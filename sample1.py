@@ -9,4 +9,7 @@ def subtract(a, b):
 def multiply(a, b):
     return a * b
     
-print(sum(30,40))
+def division(a, b):
+    return a/b
+    
+print(division(10,0))
